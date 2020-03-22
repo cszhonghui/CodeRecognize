@@ -1,0 +1,7 @@
+﻿  源.cpp
+D:\CodeRes\VisualStudio\CodeRec\CodeRec\Model.h(52,17): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“_Ty1”
+D:\CodeRes\VisualStudio\CodeRec\CodeRec\Model.h(52,17): warning C4477:         with
+D:\CodeRes\VisualStudio\CodeRec\CodeRec\Model.h(52,17): warning C4477:         [
+D:\CodeRes\VisualStudio\CodeRec\CodeRec\Model.h(52,17): warning C4477:             _Ty1=std::string
+D:\CodeRes\VisualStudio\CodeRec\CodeRec\Model.h(52,17): warning C4477:         ]
+  CodeRec.vcxproj -> D:\CodeRes\VisualStudio\CodeRec\CodeRec\Debug\CodeRec.exe
